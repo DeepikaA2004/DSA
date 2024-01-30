@@ -15,3 +15,32 @@
 13. **Check for anagrams:** Write a function to check if two strings are anagrams of each other (contain the same letters in different arrangements).
 14. **Find the most frequent character:** Write a function to find the character that appears most frequently in a string.
 15. **Check for repeating characters:** Write a function to check if a string has any repeated characters consecutively.
+ 		
+  16.  ### STACK 
+		 1. Check for Empty: Write a function to determine if a stack is empty.
+		 2. Peek: Write a function to return the top element of a stack without
+		    removing it.
+		 3. Push: Write a function to add an element to the top of a stack.
+		 4. Pop: Write a function to remove and return the top element of a stack.
+	   5. Get Size: Write a function to return the number of elements in a stack.
+	   6. Implement a Stack: Create a stack data structure using an array or linked
+		    list.
+	   7. Reverse a String: Use a stack to reverse the characters of a given string.
+ 	   8. Balanced Parentheses: Check if a string of parentheses is balanced (e.g.,
+        (())" is balanced, ")(())" is not).
+  
+  17.   ###  QUEUE 
+       
+		 9. Check for Empty: Write a function to determine if a queue is empty.
+	   10. Enqueue: Write a function to add an element to the rear of a queue.
+	   11. Dequeue: Write a function to remove and return the element at the front
+		     of a queue.
+		 12. Peek: Write a function to return the element at the front of a queue
+		     without removing it.
+	   13. Get Size: Write a function to return the number of elements in a queue.
+	 	 14. Implement a Queue: Create a queue data structure using an array or linked
+		      list.
+     15. Reverse a Queue: Reverse the elements of a given queue.
+		  
+
+
