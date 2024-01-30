@@ -22,25 +22,25 @@
 		    removing it.
 		 3. Push: Write a function to add an element to the top of a stack.
 		 4. Pop: Write a function to remove and return the top element of a stack.
-	   5. Get Size: Write a function to return the number of elements in a stack.
-	   6. Implement a Stack: Create a stack data structure using an array or linked
+	         5. Get Size: Write a function to return the number of elements in a stack.
+	         6. Implement a Stack: Create a stack data structure using an array or linked
 		    list.
-	   7. Reverse a String: Use a stack to reverse the characters of a given string.
- 	   8. Balanced Parentheses: Check if a string of parentheses is balanced (e.g.,
-        (())" is balanced, ")(())" is not).
+	         7. Reverse a String: Use a stack to reverse the characters of a given string.
+ 	         8. Balanced Parentheses: Check if a string of parentheses is balanced (e.g.,
+                    (())" is balanced, ")(())" is not).
   
   17.   ###  QUEUE 
        
 		 9. Check for Empty: Write a function to determine if a queue is empty.
-	   10. Enqueue: Write a function to add an element to the rear of a queue.
-	   11. Dequeue: Write a function to remove and return the element at the front
+	        10. Enqueue: Write a function to add an element to the rear of a queue.
+	        11. Dequeue: Write a function to remove and return the element at the front
 		     of a queue.
-		 12. Peek: Write a function to return the element at the front of a queue
+	        12. Peek: Write a function to return the element at the front of a queue
 		     without removing it.
-	   13. Get Size: Write a function to return the number of elements in a queue.
-	 	 14. Implement a Queue: Create a queue data structure using an array or linked
+	        13. Get Size: Write a function to return the number of elements in a queue.
+	        14. Implement a Queue: Create a queue data structure using an array or linked
 		      list.
-     15. Reverse a Queue: Reverse the elements of a given queue.
+                15. Reverse a Queue: Reverse the elements of a given queue.
 		  
 
 
