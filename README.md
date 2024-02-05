@@ -42,5 +42,5 @@
 		      list.
                 15. Reverse a Queue: Reverse the elements of a given queue.
 		  
-
+18. Pattern printing 
 
